@@ -1,0 +1,4 @@
+/Users/nihalrahman/Desktop/CS-UY 2124/hw08/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/nihalrahman/Desktop/CS-UY 2124/hw08/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/nihalrahman/Desktop/CS-UY 2124/hw08/cmake-build-debug/CMakeFiles/seperate_comp.dir
+/Users/nihalrahman/Desktop/CS-UY 2124/hw08/cmake-build-debug/CMakeFiles/hw08.dir
